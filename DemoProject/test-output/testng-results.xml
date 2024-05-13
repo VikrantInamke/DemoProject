@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="3798" started-at="2024-04-30T17:24:23Z" finished-at="2024-04-30T17:24:27Z">
+  <suite name="Default suite" duration-ms="19165" started-at="2024-05-13T13:35:41Z" finished-at="2024-05-13T13:36:00Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="3798" started-at="2024-04-30T17:24:23Z" finished-at="2024-04-30T17:24:27Z">
-      <class name="com.tests.JbkLogin">
-        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:com.tests.JbkLogin@59f99ea]" name="verifyLogin" duration-ms="3778" started-at="2024-04-30T22:54:23Z" finished-at="2024-04-30T22:54:27Z">
+    <test name="Default test" duration-ms="19165" started-at="2024-05-13T13:35:41Z" finished-at="2024-05-13T13:36:00Z">
+      <class name="com.tests.WCartAutoItEx">
+        <test-method status="PASS" signature="verifyImageUpload()[pri:0, instance:com.tests.WCartAutoItEx@59f99ea]" name="verifyImageUpload" duration-ms="19145" started-at="2024-05-13T19:05:41Z" finished-at="2024-05-13T19:06:00Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyLogin -->
-      </class> <!-- com.tests.JbkLogin -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- verifyImageUpload -->
+      </class> <!-- com.tests.WCartAutoItEx -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
